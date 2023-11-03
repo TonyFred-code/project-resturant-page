@@ -1,22 +1,23 @@
-import './style.css';
-import chef from './images/chef.png';
-import carne from './images/carne.png';
-import colorato from './images/colorato.png';
-import crema from './images/crema.png';
-import disgustoso from './images/disgustoso.png';
-import gamberi from './images/gamberi.png';
-import pepe from './images/pepe.png';
-import pomodoro from './images/pomodoro.png';
-import salsiccia from './images/salsiccia.png';
+// import { LogMsg } from './initial-page.js'
+// import './style.css';
+// import chef from './images/chef.png';
+// import carne from './images/carne.png';
+// import crema from './images/crema.png';
+// import disgustoso from './images/disgustoso.png';
+// import gamberi from './images/gamberi.png';
+// import pepe from './images/pepe.png';
+// import pomodoro from './images/pomodoro.png';
+// import salsiccia from './images/salsiccia.png';
 
 
 console.log("working");
 
-const container = document.querySelector("#container");
-console.log(container);
+// const contentDiv = document.querySelector("#content");
+// console.log(contentDiv);
 
-const chefImage = new Image();
-chefImage.src = chef;
-chefImage.alt = "A chef";
+// const chefImage = new Image();
+// chefImage.src = chef;
+// chefImage.alt = "A chef";
 
-container.appendChild(chefImage);
+// contentDiv.appendChild(chefImage);
+// LogMsg();
