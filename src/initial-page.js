@@ -46,7 +46,7 @@ export function createHeader() {
     homeBtn.dataset.tab = "home";
 
     menuBtn.textContent = "Menu";
-    homeBtn.dataset.tab = 'menu';
+    menuBtn.dataset.tab = 'menu';
 
     contactBtn.textContent = "Contact";
     contactBtn.dataset.tab = "contact";
