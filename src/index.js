@@ -3,14 +3,6 @@ import { createHomeTab } from "./home.js";
 import { createMenuTab } from "./menu.js";
 import { createContactTab } from "./contact.js";
 import './style.css';
-// import chef from './images/chef.png';
-// import carne from './images/carne.png';
-// import crema from './images/crema.png';
-// import disgustoso from './images/disgustoso.png';
-// import gamberi from './images/gamberi.png';
-// import pepe from './images/pepe.png';
-// import pomodoro from './images/pomodoro.png';
-// import salsiccia from './images/salsiccia.png';
 
 function renderInitialPage() {
 const contentDiv = document.querySelector("#content");
@@ -66,16 +58,3 @@ function setActiveTabBtn() {
     const tabBtn = document.querySelector(`[data-tab="${shownTabName}"]`);
     tabBtn.classList.add("active");
 }
-
-// setActiveTabBtn();
-
-
-
-
-
-// const chefImage = new Image();
-// chefImage.src = chef;
-// chefImage.alt = "A chef";
-
-// contentDiv.appendChild(chefImage);
-// LogMsg();
