@@ -1,3 +1,18 @@
+@font-face {
+    font-family: Tangerine;
+    src: url(./fonts/Tangerine/Tangerine-Bold.ttf) format(truetype);
+}
+
+@font-face {
+    font-family: "Montserrat Alternates";
+    src: url(./fonts/Montserrat_Alternates/MontserratAlternates-Regular.ttf);
+}
+
 body {
     font-size: 2rem;
+    font-family: "Montserrat Alternates", serif;
+}
+
+header h1 {
+    font-family: Tangerine, cursive;
 }
