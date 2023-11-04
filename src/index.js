@@ -45,7 +45,7 @@ function switchTab(tab) {
     setActiveTabBtn();
 }
 
-switchTab(createMenuTab());
+switchTab(createHomeTab());
 
 function setActiveTabBtn() {
     const tabBtns = document.querySelectorAll('[data-tab]');
