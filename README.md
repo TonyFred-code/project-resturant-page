@@ -1,6 +1,6 @@
 # A Restaurant Page: Pizzaly
 
-This was created as a project in the [JavaScript Path of The Odin Project](https://www.theodinproject.com/lessons/node-path-javascript-resturant-page)
+This was created as a project in the [JavaScript Path of The Odin Project](https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page)
 
 ![Tic-Tac-Toe Screenshot](./src/images/home-page-Pizzaly.png)
 
