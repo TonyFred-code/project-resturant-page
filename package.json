@@ -1,7 +1,7 @@
 {
-  "name": "project-resturant-page",
+  "name": "project-restaurant-page",
   "version": "1.0.0",
-  "description": "Project: Resturant Page (TOP)",
+  "description": "Project: Restaurant Page (TOP)",
   "main": "index.js",
   "scripts": {
     "gh-deploy": "git push origin :gh-pages && git subtree push --prefix dist origin gh-pages",
@@ -10,7 +10,7 @@
     "build": "webpack --config webpack.prod.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Tony Fred",
   "license": "ISC",
   "devDependencies": {
     "css-loader": "^6.8.1",
